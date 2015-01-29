@@ -14,7 +14,6 @@ public class CarpetDriver {
         theCarpet.theDimensions.roomLength=in.nextInt();
         System.out.println("Enter Width:");
         theCarpet.theDimensions.roomWidth=in.nextInt();
-        //test
         System.out.println("The cost is: "+theCarpet.getCost()+"$");
         
     }
